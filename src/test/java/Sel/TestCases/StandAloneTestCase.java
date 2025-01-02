@@ -18,6 +18,8 @@ public class StandAloneTestCase {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		//github changes
+
 		WebDriverManager.chromedriver().setup();
 		WebDriver alone = new ChromeDriver();
 		String userName = "tarun17@gmail.com";
